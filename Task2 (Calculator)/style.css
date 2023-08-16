@@ -1,0 +1,38 @@
+body{
+    background-image: url(Background2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2 {
+    margin-top: 40px;
+    font-size: 40px;
+    text-align: center;
+    color:white;
+}
+.container{
+    background-color:white;
+    padding: 20px;
+    border: 2px;
+    border-radius: 10px;
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 550px;
+}
+.button{
+    font-size: 25px;
+    margin-left:10px;
+    margin-top:15px;
+    margin-right:10px;
+    margin-bottom:15px;
+    border-radius: 10px;
+    height: 45px;
+    width: 45px;
+}
+.screen{
+    background-color: rgb(173, 245, 245);
+    height: 40px;
+    width: 185px;
+    align-items: center;
+    margin-left: 10px;
+    margin-top: 5px;
+}
